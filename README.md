@@ -14,4 +14,5 @@ This Project is about making tests with Cucumber. The following build presented 
         * Email
         * Date
         * Telephone Number
-        
+
+ver1.mdj is an Entity Relationship diagram of the project.
